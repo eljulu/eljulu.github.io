@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://example.org/</loc>
+    <lastmod>2020-06-24T15:21:25-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.org/posts/education/</loc>
+    <lastmod>2020-06-24T15:21:25-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.org/posts/</loc>
+    <lastmod>2020-06-24T15:21:25-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.org/posts/aboutme/</loc>
+    <lastmod>2020-05-13T05:58:50-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.org/projects/vm450_suspensionobject/</loc>
+    <lastmod>2019-08-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.org/projects/</loc>
+    <lastmod>2019-08-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.org/projects/ae490_ml/</loc>
+    <lastmod>2019-05-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.org/projects/ae405_landinggear/</loc>
+    <lastmod>2019-04-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.org/projects/ae481_aircraftdesign/</loc>
+    <lastmod>2018-12-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.org/projects/vm490_porousmedia/</loc>
+    <lastmod>2018-08-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.org/projects/vm350_fourbarwheel/</loc>
+    <lastmod>2018-08-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.org/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.org/tags/</loc>
+  </url>
+  
+</urlset>

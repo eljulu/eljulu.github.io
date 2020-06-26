@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on </title>
+    <link>https://example.org/projects/</link>
+    <description>Recent content in Projects on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© {year}</copyright>
+    <lastBuildDate>Mon, 05 Aug 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://example.org/projects/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Controllable rotation of electromagnetically levitated object</title>
+      <link>https://example.org/projects/vm450_suspensionobject/</link>
+      <pubDate>Mon, 05 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/projects/vm450_suspensionobject/</guid>
+      <description>Project Description [Report] [Video] The goal of the project is to achieve controlled rotation of electromagnetically suspended objects. We are required to include a rotary control system in the suspension control system, which is provided by our sponsor. Within a duration of 3 months, my team members and I successfully developed a stable system to achieve this rotary control on the suspended system. Suggestion on further improvements are provided to our sponsor as well.</description>
+    </item>
+    
+    <item>
+      <title>Prediction of transition and separation location on airfoils using machine learning</title>
+      <link>https://example.org/projects/ae490_ml/</link>
+      <pubDate>Thu, 02 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/projects/ae490_ml/</guid>
+      <description>Research Abstract [Report] Both neuron network model and decision tree model are used to predict the transition location of airfoils. The results from both regression (the exact location prediction) and classification (chordwise location bin prediction) are compared between two models and the model with simple configuration and good accuracy was chosen to predict the drag coefficient cf distribution along the airfoil chord with good validation results.
+Conclusion By constructing some simple neuron network model and decision tree model, machine learning is proved to be useful in prediction of the transition location on airfoils as well as the drag coefficient $$c_f$$ distribution over the airfoils.</description>
+    </item>
+    
+    <item>
+      <title>Structural testing and analysis of aluminum and composite landing gear</title>
+      <link>https://example.org/projects/ae405_landinggear/</link>
+      <pubDate>Fri, 26 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/projects/ae405_landinggear/</guid>
+      <description>Project Description [Report] [Poster] M-Fly at University of Michigan was investigating using a composite landing gear on its advanced-class aircraft. They requested that we analyze and compare the performance of its previously-used aluminum landing gear to the composite landing gear. We have been asked to provide a final recommendation on which material to use for future landing gear designs.
+My Roles  Active and strongly motivated member of a team of five Test rig design and manufacture Preliminary theoretical model analysis and prediction on structural impact Test data collection with Raspberry Pi and acceleration sensors  </description>
+    </item>
+    
+    <item>
+      <title>Electric short-range commuter type aircraft design</title>
+      <link>https://example.org/projects/ae481_aircraftdesign/</link>
+      <pubDate>Sun, 09 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/projects/ae481_aircraftdesign/</guid>
+      <description>Project Description [Report] The objective of the mission is to design a commuter type airplane, whose entry-into-service date is 2030. It should satisfy Part 23 of the Federal Aviation Regulations. The economy range of the plane should be 250 nmi while the maximum range should be 400 nmi with 100 nmi reserve.
+My Roles  Active member of a team of four Preliminary theoretical aerodynamic analysis   Coded the optimization python framework for engineering parameters for the airplane   Validation on parameters with aerodynamic analysis of wing area  </description>
+    </item>
+    
+    <item>
+      <title>Thermal conductivity of porous media</title>
+      <link>https://example.org/projects/vm490_porousmedia/</link>
+      <pubDate>Sat, 11 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/projects/vm490_porousmedia/</guid>
+      <description>Research Abstract [Report] Utilizing a computational framework openBTE, ballistic limit and diffusive limit are studied for two different models - gray and nongray Si. Both ballistic limit and diffusive limit are dependent on the MFP distribution of the material. To study the parameters that might influence the thermal conductivity at diffusive limit for porous media, several geometries are studied and a possible descriptor - shape factor is introduced.
+Conclusion Based on the results of thermal conductivity for differ- ent porous geometry, several conclusions can be made.</description>
+    </item>
+    
+    <item>
+      <title>Four-bar linkage transformable wheels</title>
+      <link>https://example.org/projects/vm350_fourbarwheel/</link>
+      <pubDate>Wed, 08 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/projects/vm350_fourbarwheel/</guid>
+      <description>Project Description [Report] [Video] Vehicles that can travel through complicated surface are needed in many fields nowadays. Transformable wheel is a solution to allow vehicles transform wheels shape to accommodate the different surfaces or to overcome obstacles. In this project, we simulate different situations that vehicles may encounter, including a 6cm height step(obstacles), sand(desert) and concrete land(road), 10cm height gate(tunnels). A six-teethed transformable wheel is designed to make the vehicle clime or pass through the obstacles stably and fast.</description>
+    </item>
+    
+  </channel>
+</rss>
