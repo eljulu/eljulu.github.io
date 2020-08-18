@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© {year}</copyright>
-    <lastBuildDate>Mon, 05 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 07 May 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://example.org/projects/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Stanford Niki Vehicle Dynamics and Control</title>
+      <link>https://example.org/projects/me227_vehicledynamics/</link>
+      <pubDate>Thu, 07 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/projects/me227_vehicledynamics/</guid>
+      <description>Project Description [Report] This project involves developing two types of vehicle controller for Stanford Niki on the steering angle as well as the throttle such that the vehicle can run two laps on a specified track automatically with small deviation (error) from the path as well as reasonable lateral and longitudinal acceleration for the comfort of the passengers as well as the physical probability of dynamic performance of the vehicle.</description>
+    </item>
     
     <item>
       <title>Controllable rotation of electromagnetically levitated object</title>

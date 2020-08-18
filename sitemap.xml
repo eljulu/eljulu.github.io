@@ -23,12 +23,17 @@
   </url>
   
   <url>
-    <loc>https://example.org/projects/vm450_suspensionobject/</loc>
-    <lastmod>2019-08-05T00:00:00+00:00</lastmod>
+    <loc>https://example.org/projects/</loc>
+    <lastmod>2020-05-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.org/projects/</loc>
+    <loc>https://example.org/projects/me227_vehicledynamics/</loc>
+    <lastmod>2020-05-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.org/projects/vm450_suspensionobject/</loc>
     <lastmod>2019-08-05T00:00:00+00:00</lastmod>
   </url>
   
